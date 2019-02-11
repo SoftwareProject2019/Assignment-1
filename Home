@@ -1,0 +1,11 @@
+<html> 
+<body>
+<h1> Human Acts </h1>
+<form method="post" action="SignIn.php">
+<input type="submit" name="SignIn" value="Sign In" action='SignIn.php'>
+</form>
+<form method="post" action="SignUp.php">
+<input type="submit" name="SignUp" value="Sign Up" action="SignUp.php">
+</form>
+</body>
+</html>
